@@ -1,0 +1,5 @@
+# 本地构建产物
+/mdnsmap
+
+# macOS 元数据
+.DS_Store
